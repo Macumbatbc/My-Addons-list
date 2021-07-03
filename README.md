@@ -1,4 +1,5 @@
 # My-Addons-list
+
 A list of all my TBCC addons i have modified :
 
 - SchakaPvPUI
@@ -48,3 +49,14 @@ https://github.com/Macumbatbc/TidyMinimap-TBCC
 
 - BankItem
 https://github.com/Macumbatbc/BankItem-TBCC
+
+
+# For more addons and such questions 
+You can find me on Silent Shadow discord, on addons/macros/weak aura channels.
+https://discord.gg/MCmBDx3MmC
+
+# Support
+
+https://www.paypal.me/macumbafeh
+
+All support is appreciated
