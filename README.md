@@ -1,5 +1,5 @@
 # My-Addons-list
-A list of all my TBCC addons i modified :
+A list of all my TBCC addons i have modified :
 
 - SchakaPvPUI
 https://www.curseforge.com/wow/addons/schakapvpui-tbc-classic
