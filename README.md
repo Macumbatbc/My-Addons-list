@@ -53,6 +53,12 @@ https://github.com/Macumbatbc/TinyBook-TBCC
 - BankItem
 https://github.com/Macumbatbc/BankItem-TBCC
 
+- ArenaNumberAsName-modified-2
+https://github.com/Macumbatbc/ArenaNumberAsName-modified-2
+
+- ArenaNumberAsName-modified
+https://github.com/Macumbatbc/ArenaNumberAsName-modified
+
 
 # For more addons and such questions 
 You can find me on Silent Shadow discord, on addons/macros/weak aura channels.
