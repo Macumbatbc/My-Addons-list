@@ -47,6 +47,9 @@ https://github.com/Macumbatbc/RETabBinder-modified
 - TidyMinimap
 https://github.com/Macumbatbc/TidyMinimap-TBCC
 
+- TinyBook
+https://github.com/Macumbatbc/TinyBook-TBCC
+
 - BankItem
 https://github.com/Macumbatbc/BankItem-TBCC
 
